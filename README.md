@@ -1,2 +1,4 @@
-# react-tesseract-ocr-demo
-Demo for react-tesseract-ocr
+React Tesseract OCR Demo
+========================
+
+WIP
